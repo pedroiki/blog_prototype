@@ -1,11 +1,12 @@
 /*!
- * Start Bootstrap - Clean Blog v5.0.8 (https://startbootstrap.com/template-overviews/clean-blog)
- * Copyright 2013-2019 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/master/LICENSE)
+ * Start Bootstrap - Carlos Gomes Travel Blog v1.0.0 ()
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/ /blob/master/LICENSE)
  */
 
 body {
-  font-size: 12px;
+  background-color: rgba(56, 34, 153, 0.6);
+  font-size: 20px;
   color: #212529;
   font-family: 'Lora', 'Times New Roman', serif;
 }
@@ -268,7 +269,7 @@ header.masthead .post-heading .meta a {
 }
 
 .post-preview > a {
-  color: #212529;
+  color: #fff;
 }
 
 .post-preview > a:focus, .post-preview > a:hover {

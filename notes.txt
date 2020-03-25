@@ -1,0 +1,6 @@
+
+to change use : global.scss
+
+
+use : npm start 
+this will compile 
