@@ -1,6 +1,8 @@
 
-to change use : global.scss
 
+to change use : _global.scss
+
+change background on clean-blog.min.css
 
 use : npm start 
 this will compile 
