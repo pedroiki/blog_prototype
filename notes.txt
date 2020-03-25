@@ -6,3 +6,5 @@ change background on clean-blog.min.css
 
 use : npm start 
 this will compile 
+
+by: Carlos Pedro Gomes
